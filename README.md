@@ -37,13 +37,13 @@
 
 ### 服务端
 
-$ npm install
+$ npm i
 
 $ node app
 
 ### 客户端
 
-$ npm install
+$ npm i
 
 $ npm run dev
 
